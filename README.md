@@ -1,6 +1,6 @@
 # Thanks to @antirez
 
-## Simple C course 
+## C lessons 
 
 I'm working from M3 Pro so I use
 
