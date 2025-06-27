@@ -1,4 +1,4 @@
-#Thanks to @antirez
+# Thanks to @antirez
 
 ## Simple C course 
 
