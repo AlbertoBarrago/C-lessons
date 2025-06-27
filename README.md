@@ -1,6 +1,4 @@
-# Thanks to @antirez
-
-## C lessons 
+# C lessons by antirez 
 
 I'm working from M3 Pro so I use
 
