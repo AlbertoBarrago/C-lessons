@@ -1,14 +1,14 @@
 # C lessons by antirez 
 
-I'm working from M3 Pro so I use
+I'm working from M3 Pro with zsh shell `(echo $0)` to find yours.
 
-_How to compile project_
+_Compile_
 
 ```bash
 cc main.c
 ```
 
-Run
+_Execute_
 ```bash
 ./a.out
 ```
